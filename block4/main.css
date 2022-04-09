@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+}
+
+.fa-heart{
+    display: block;
+    font-size: 60px;
+    color: #0dc7c7;
+    text-align: center;
+    margin-top: 60px;
+}
+.green-box{
+    height: 600px;
+    background: #39cbc7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 350px;
+    height: 450px;
+    background: #055468;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.txt{
+    font-family:candara, sans-serif;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    width: 80%;
+
+}
+.photo-box{
+    width: 30%;
+
+
+
+}
+.image{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid;
+
+
+
+}
+.name{
+    font-family:candara, sans-serif;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: 900;
+
+}
